@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jonny2k9.github.io
+title: Jon
+tagline: Iterating daily, line by line.
+description: A place to log my thoughts.
+paginate: 5
